@@ -1,0 +1,53 @@
+.select-pesquisa{
+    width: 20%;
+    height: 50px;
+    padding: 0;
+    margin: 0;
+    border-radius: 5px;
+}
+
+.input-pesquisa{
+    width: 74%;
+    height: 50px;
+    padding: 0;
+    margin: 0;
+    border-radius: 5px;
+}
+
+.button-pesquisa{
+    width: 5%;
+    height: 50px;
+    padding: 0;
+    margin: 0;
+    border-radius: 5px;
+}
+
+.min-w {
+    min-height: 400px;
+    border-radius: 10px;
+}
+
+.btn-g {
+    width: 300px;
+    height: 80px;
+}
+
+#tb-nome {
+    min-width: 35%;
+}
+
+#tb-cpf {
+    min-width: 15%;
+}
+
+#tb-email {
+    min-width: 30%;
+}
+
+#tb-codigo {
+    min-width: 10%;
+}
+
+#tb-celular {
+    min-width: 10%;
+}
